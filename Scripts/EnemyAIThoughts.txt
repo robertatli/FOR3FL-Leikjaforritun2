@@ -1,0 +1,39 @@
+﻿_____________________________
+Enemy Not Spotted Player:
+
+
+Will or will not patrol in a certain area.
+
+Does not attack.
+__________________________
+Enemy Spotted Player:
+
+
+Will start moving in towards player.
+
+Will go in a random direction sometimes.
+
+If the Enemy has gone into 2 random directions in a row without approaching player, force to start approaching player.
+
+Will attack when in range.
+___________________________
+Enemy Loses Track of Player:
+
+No longer is chasing the player.
+
+No longer attacks.
+
+Will go the shortest (lol reiknirit) path back to his original patrol or area.
+
+Will re-aggro if player comes too close despite not being back to his path/area.
+
+
+
+
+Also Good to Look at:
+
+https://www.youtube.com/watch?v=CgQdJjXjQbA
+
+And for future reference:
+
+https://www.youtube.com/watch?v=r50mj8TUF_U
