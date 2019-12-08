@@ -1,7 +1,3 @@
----
-FOR3FL-Leikjaforritun2
----
-
 ## Leikurinn
 
 Leikurinn hefur breyst mikið, og er núna 2.5D rougelite dungeon crawler. Þú spilar stelpu sem reynir að komast út úr dungeon-inu. Leikurinn hefur Random Level Generation og er ekki hægt að fá það sama level aftur. Enemies eru mjög einfaldir, þeir hlaupa að þér og meiða þig, en þeir eru með A* pathfinding reiknirit, sem reynir að finna bestu leiðina til þín. Markmiðið þitt er að reyna að komast að stiganum til að ferðast lengra niður til aðal illmennið. 
