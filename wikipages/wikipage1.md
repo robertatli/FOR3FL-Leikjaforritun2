@@ -1,7 +1,3 @@
----
-FOR3FL-Leikjaforritun2
----
-
 # Tölvubraut, FORR3FL05EU, Tækniskólinn
 ### Along A. Loftsson og Róbert Atli Svavarsson
 # Leikurinn:
